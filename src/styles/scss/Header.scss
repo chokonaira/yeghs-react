@@ -1,0 +1,39 @@
+.heado {
+  display: flex;
+  justify-content: space-between;
+  background-color: #800000;
+  width: 100%;
+  color: white;
+}
+
+.heado h1 {
+  display: inline-block;
+  padding: 10px;
+}
+.nbar {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 10px;
+}
+.navlink {
+  margin: 20px;
+  color: white;
+  font-size: 25px;
+  text-decoration: none !important;
+
+}
+
+
+.navlink a:hover {
+  margin: 20px;
+  color: green;
+  border: solid 1px white;
+}
+
+@media only screen and (max-width: 400px) {
+  .nbar {
+    display: none;
+  }
+}
+
+

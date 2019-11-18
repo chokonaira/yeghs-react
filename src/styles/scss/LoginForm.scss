@@ -1,0 +1,79 @@
+.cont {
+  background: url(./assets/b6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+
+form {
+  background: rgba(46, 153, 214, 0.9);
+  color: #fff;
+  padding: 35px;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  margin: auto;
+}
+
+.form-control {
+  background: #D9D7D7;
+  border: 1px solid #fff;
+  height: 50px;
+}
+
+#submit {
+  height: 50px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  border-radius: 5px;
+  color: #535353;
+}
+
+.form-div {
+  background: rgba(255, 255, 255, .5);
+  width: 70%;
+  margin: auto;
+  border-radius: 10px;
+  margin-top: 10%;
+}
+
+.intro {
+  color: #535353;
+  font-size: 35px;
+  margin-top: 20%;
+}
+
+.social-login {
+  text-align: center;
+  margin: 0;
+  margin-top: 18%;
+}
+
+.social {
+  font-size: 70px;
+}
+
+.fa-google-plus {
+  color: #CC3333;
+}
+
+.fa-facebook {
+  color: #3b5998;
+}
+
+.fa-twitter {
+  color: #1da1f2;
+}
+
+.fa-github {
+  color: #000;
+}
+
+.msg {
+  position: absolute;
+  bottom: 25%;
+  left: 40%;
+  font-size: 25px;
+}
+
