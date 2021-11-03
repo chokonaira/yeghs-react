@@ -65,7 +65,7 @@
     "sass-loader": "^6.0.6",
     "sass-resources-loader": "^2.0.1",
     "style-loader": "^0.18.2",
-    "validator": "8.0.0",
+    "validator": "13.7.0",
     "identity-obj-proxy": "^3.0.0",
     "import-glob-loader": "^1.1.0",
     "webpack": "^4.41.2",
